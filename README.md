@@ -1,5 +1,4 @@
-# powershell-profile
-<<<<<<< HEAD
+#powershell-profile
 Some great tweaks for Powershell.
 
 #Prerequisites (Elevated Prompt):
@@ -7,24 +6,24 @@ Some great tweaks for Powershell.
 Execution Policy :
 
 ```
- **Set-ExecutionPolicy RemoteSigned**
+Set-ExecutionPolicy RemoteSigned
 ```
 
 Terminal Icons ** :
 
 ```
- *** Install-Module -Name Terminal-Icons -Repository PSGallery ***
+Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
 
 Starship Install : 
 
 ```
- **winget install --id Starship.Starship**
+winget install --id Starship.Starship
 ```
 Nerd fonts are required by starship 
 install them from here :
 ```
- [text](https://www.nerdfonts.com/font-downloads)
+https://www.nerdfonts.com/font-downloads
 ```
 Now, enjoy your enhanced and stylish PowerShell experience! 🚀 
 
