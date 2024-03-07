@@ -1,2 +1,3 @@
 # powershell-profile
-Some great tweaks for Powershell.
+very basic stuff to get you started
+with powershell.
