@@ -1,4 +1,5 @@
 # powershell-profile
+<<<<<<< HEAD
 Some great tweaks for Powershell.
 
 #Prerequisites (Elevated Prompt):
@@ -26,3 +27,4 @@ install them from here :
  [text](https://www.nerdfonts.com/font-downloads)
 ```
 Now, enjoy your enhanced and stylish PowerShell experience! 🚀 
+
