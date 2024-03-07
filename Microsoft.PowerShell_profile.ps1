@@ -1,4 +1,3 @@
-
 Invoke-Expression (&starship init powershell)
 
 Import-Module -Name Terminal-Icons
@@ -9,11 +8,13 @@ Set-Alias -Name npp -Value Notepad++
 function admin {
     if ($args.Count -gt 0) {   
         $argList = "& '" + $args + "'"
-        Start-Process "C:\Program Files\PowerShell\7\pwsh.exe" -Verb runAs -ArgumentList $argList
+        Start-Process "C:\Program Files\PowerShell\7\pwsh.exe" -Verb runAs -ArgumentList $argList 
     } else {
         Start-Process "C:\Program Files\PowerShell\7\pwsh.exe" -Verb runAs
     }
 }
+
+#C:\Program Files\PowerShell\7\pwsh.exe - path to powershell core MSI installer
 
 Set-Alias -Name sudo -Value admin
 
