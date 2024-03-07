@@ -1,10 +1,13 @@
+## Please remove # to enable it.
 Invoke-Expression (&starship init powershell)
 
 Import-Module -Name Terminal-Icons
 
 Set-Alias -Name touch -Value New-Item 
 
-Set-Alias -Name npp -Value Notepad++
+#Set-Alias -Name npp -Value Notepad++ ## Optional(If Notepad Path added)
+
+
 function admin {
     if ($args.Count -gt 0) {   
         $argList = "& '" + $args + "'"
