@@ -1,7 +1,8 @@
 # powershell-profile
-Some great tweaks for Powershell.
 
-#Prerequisites (Elevated Prompt):
+My custom profile for Powershell - Terminal
+
+# Prerequisites (Elevated Prompt):
 
 Execution Policy :
 
