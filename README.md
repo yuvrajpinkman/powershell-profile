@@ -1,5 +1,9 @@
 # powershell-profile
 
+![Shell](https://img.shields.io/badge/shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![winget](https://img.shields.io/badge/winget-compatible-0099CC?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![License](https://img.shields.io/github/license/yuvrajpinkman/powershell-profile?style=for-the-badge)
+
 My custom profile for Powershell - Terminal
 
 # Prerequisites (Elevated Prompt):
