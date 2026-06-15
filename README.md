@@ -15,15 +15,20 @@ Terminal Icons :
 Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
 
-Starship Install : 
+OhMyPosh Install : 
 
 ```
-winget install --id Starship.Starship
+winget install -e --id JanDeDobbeleer.OhMyPosh
 ```
-Nerd fonts are required by starship 
+Nerd fonts are required by ohmyposh 
 install them from here :
 ```
 https://www.nerdfonts.com/font-downloads
 ```
-Now, enjoy your enhanced and stylish PowerShell experience! 🚀 
+Find a suitable theme of ohmyposh from here : 
+```
+https://ohmyposh.dev/docs/themes
+```
+Make sure to look into script before copying content i.e. Path of theme.
 
+Now, enjoy your enhanced and stylish PowerShell experience! 🚀
