@@ -25,6 +25,13 @@ OhMyPosh Install :
 ```
 winget install -e --id JanDeDobbeleer.OhMyPosh
 ```
+
+Zoxide Install :
+
+```
+winget install zoxide
+```
+
 Nerd fonts are required by ohmyposh 
 install them from here :
 ```
